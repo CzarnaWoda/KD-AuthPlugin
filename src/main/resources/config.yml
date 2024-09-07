@@ -1,0 +1,33 @@
+messages:
+  register_rightUsage: 'Poprawne uzycie: /register <haslo> <haslo>'
+  register_passwordNotMach: 'Haslo zostalo zle powtorzone!'
+  login_rightUsage: 'Poprawne uzycie: /login <haslo>'
+  logged_in: 'Zalogowano poprawnie!'
+  register_successfully: 'Zarejestrowano poprawnie!'
+  login_youAreLoggedIn: 'Jestes juz zalogowany!'
+  login_youArePremiumPlayer: 'Jestes graczem PREMIUM nie potrzebujesz sie zalogowac!'
+  connected_wrongPresent: 'Wrong Present'
+  html_error: 'Nastapil blad z odczytaniem API -> Przeciazenie #1'
+  html_exception: 'Nastapil blad z odczytaniem API -> Przeciazenie #2'
+  connected_VPNorProxy: 'Twoje IP jest z proxy/vpn!'
+  register_already: 'Jestes juz zarejestrowany, musisz sie zalogowac!'
+  register_passwordTooWeak: 'Haslo powinno posiadac minimum 6 znaków!'
+  login_tooMuchTime: 'Minelo twoje 30 sekund na zalogowanie!'
+  login_withPremium: 'Zalogowano z konta premium'
+  login_withNoPremium: 'Zalogowano z konta non-premium'
+mysql:
+  host: 'localhost'
+  port: 3306
+  user: 'justpvp'
+  password: '4E9FHmynew'
+  name: 'proxy'
+  prefix: 'justpvp'
+motd:
+  playersinfo:
+    - 'JustPvP.PL'
+    - 'Jebac oleja'
+  protocol: '{ONLINE}/{MAX} :D'
+  multipler: 1.75
+  description:
+    1: 'Siema to pierwsze motd'
+    2: 'Siema to drugie motd'

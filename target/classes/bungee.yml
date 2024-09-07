@@ -1,0 +1,4 @@
+name: AuthPlugin
+main: pl.krayday.auth.Auth
+version: 7.5-BETA
+author: CzarnaWoda,Olojvnek

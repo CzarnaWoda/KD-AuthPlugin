@@ -1,0 +1,4 @@
+name: AuthPlugin
+main: pl.krayday.auth.Auth
+version: 8.1-PREFINAL
+author: CzarnaWoda,Olojvnek
